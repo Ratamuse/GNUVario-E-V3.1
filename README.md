@@ -1,4 +1,4 @@
-# GNUVario-V3.1
+# GNUVario-E V3.1
 GNUVario-E V3.1 
 
 Kicad files for GNUVario-E V3.1
