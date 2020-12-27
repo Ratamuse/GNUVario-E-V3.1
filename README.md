@@ -14,3 +14,5 @@ You should wait!!!
 
 https://prunkdump.github.io/GNUVario-TTGO-T5-website-EN/
 
+GnnsToolKit3 to custom L86 GPS NMEA sentences (GPS+GLONASS+GALILEO, aviation mode, SBAS)
+See GNUVario-E GPS settings.docx
